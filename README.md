@@ -1,8 +1,4 @@
-# Haskell-IO-Practice
-Homework practice for IO programming
-
-The recommended order for completing these tasks is:
-
+# Haskell
 * helloyou.hs
 * stringjumble.hs
 * fizzbuzz.hs
